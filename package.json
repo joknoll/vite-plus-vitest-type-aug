@@ -23,6 +23,7 @@
     "typescript": "^5.9.3",
     "vite": "catalog:",
     "vite-plus": "catalog:",
+    "vitest": "catalog:",
     "vitest-browser-svelte": "^2.1.0"
   },
   "packageManager": "pnpm@10.33.0"
